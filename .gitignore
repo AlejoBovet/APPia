@@ -1,7 +1,7 @@
 # Ignorar archivos de ambiente
 .env
 .venv
-env/
+venv/
 
 # Ignorar archivos de registro
 *.log
